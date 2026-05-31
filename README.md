@@ -1,233 +1,182 @@
 <div align="center">
 
-# 🚀 Mohammed Haafil
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:00F5FF,50:7B61FF,100:FF00FF&text=MOHAMMED%20HAAFIL&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
 
-### High Volume Vibe Coder • AI Enthusiast • Founder of Zyphoryx AI Lab
+# 🤖 Mohammed Haafil
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,50:2563eb,100:7c3aed&text=MOHAMMED%20HAAFIL&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
+### AI Enthusiast • High Volume Vibe Coder 
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Building+AI-Powered+Projects;Exploring+AI+Agents;Learning+LangGraph;Exploring+MCP+Protocol;Creating+with+Lovable;Learning+by+Building" />
+
+<img src="https://komarev.com/ghpvc/?username=Haafil17&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
 
 </div>
 
 ---
 
-# 👋 About Me
-
-I'm Mohammed Haafil, a Grade 8 student passionate about Artificial Intelligence, technology, startups, and building real-world products.
-
-I learn by building. Instead of only studying concepts, I create projects, experiment with AI tools, and explore how modern software systems work.
-
-Currently focused on:
-
-- 🤖 Artificial Intelligence
-- 🧠 AI Agents & Workflows
-- 🔗 LangGraph
-- ⚡ MCP Protocol
-- 🐍 Python
-- 🌐 SaaS Development
-- 🚀 Startup Building
-
----
-
-# 🚀 What I'm Learning
-
-```txt
-Python
-AI Agents
-Prompt Engineering
-Transformers
-Embeddings
-Guardrails
-LangGraph
-MCP Protocol
-AI Orchestration
-Context Engineering
-RAG
-APIs
-Git & GitHub
-System Design
-Cloud Computing
-Databases
-CI/CD
-SaaS Architecture
-Modern Web Development
+```mermaid
+mindmap
+  root((AI Journey))
+    Python
+    AI Agents
+    LangGraph
+    MCP
+    Prompt Engineering
+    Transformers
+    Embeddings
+    SaaS
+    System Design
 ```
 
-# 🧠 Exploring AI & Technology
+# 🧠 AI Learning Journey
 
-### 🤖 Artificial Intelligence
-
-- AI Agents
-- Agentic AI
-- AI Workflows
-- Prompt Engineering
-- Multi-Model AI Systems
-
-### 🔗 AI Frameworks & Concepts
-
-- LangGraph
-- MCP Protocol
-- AI Orchestration
-- Context Engineering
-- Retrieval-Augmented Generation (RAG)
-
-### 🧠 Machine Learning Concepts
-
-- Transformers
-- Embeddings
-- Guardrails
-- Large Language Models (LLMs)
-
-### 💻 Programming & Development
-
-- Python
-- HTML
-- CSS
-- JavaScript (Learning)
-- APIs
-
-### ⚙️ Tools & Platforms
-
-- GitHub
-- Git
-- VS Code
-- Lovable
-- Firebase
-- Vercel
-
-### ☁️ Exploring Software Engineering Concepts
-
-- System Design
-- Cloud Computing
-- Databases
-- CI/CD
-- SaaS Architecture
-- Modern Web Development
+```yaml
+Status: Learning & Exploring
+Focus: Artificial Intelligence
+Approach: Build → Test → Improve → Repeat
+Current Stage: AI Projects + Software Systems
+```
 
 ---
 
-# 🚀 Featured Projects
+# ⚡ Currently Exploring and Learninng
 
-## 🌐 Zyphoryx Launch Forge AI
+<table>
+<tr>
+<td>🤖 AI Agents</td>
+<td>🔗 LangGraph</td>
+<td>⚡ MCP Protocol</td>
+</tr>
 
-AI-powered startup launch platform for generating:
+<tr>
+<td>🧠 Transformers</td>
+<td>📦 Embeddings</td>
+<td>🛡️ Guardrails</td>
+</tr>
 
-- Business Ideas
-- Startup Names
-- Brand Identity Concepts
-- Marketing Ideas
-- Launch Strategies
-
----
-
-## 🎨 AI Brand Builder
-
-AI-powered branding platform for generating:
-
-- Brand Names
-- Slogans
-- Taglines
-- Brand Concepts
-
----
-
-## 🤖 Multi-Model AI Platform
-
-A project that combines 4 AI models into a single interface to explore different AI workflows and capabilities.
-
-Features:
-
-- Multiple AI Models
-- Unified Interface
-- Task-Based AI Selection
-- AI Workflow Experiments
+<tr>
+<td>🔍 RAG</td>
+<td>🧩 Context Engineering</td>
+<td>🎯 AI Orchestration</td>
+</tr>
+</table>
 
 ---
 
-## 📊 Data Analytics Platform
+# 🛠️ Technology Stack Currently Exploring
 
-A project focused on data analysis, visualization, and business insights.
+### AI & Machine Learning
 
-Features:
+![AI Agents](https://img.shields.io/badge/AI%20Agents-Exploring-7B61FF?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-Learning-00F5FF?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP-Exploring-FF00FF?style=for-the-badge)
+![Transformers](https://img.shields.io/badge/Transformers-Learning-00C853?style=for-the-badge)
+![Embeddings](https://img.shields.io/badge/Embeddings-Exploring-FF9100?style=for-the-badge)
 
-- Data Processing
-- Data Visualization
-- Interactive Dashboards
-- Business Insights
+### Development
 
----
+![Python](https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python)
+![HTML](https://img.shields.io/badge/HTML-Learning-E34F26?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-Learning-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-Learning-F7DF1E?style=for-the-badge&logo=javascript)
 
-## 🏢 Client Company Website
+### Tools
 
-Designed and delivered a website project for a real company client.
-
-Experience gained:
-
-- Client Communication
-- Requirement Gathering
-- UI Design
-- Deployment
-- Project Delivery
+![GitHub](https://img.shields.io/badge/GitHub-Active-181717?style=for-the-badge&logo=github)
+![Lovable](https://img.shields.io/badge/Lovable-Building-purple?style=for-the-badge))
+![Vercel](https://img.shields.io/badge/Vercel-Deploying-black?style=for-the-badge&logo=vercel)
 
 ---
 
-## 🧪 H2A2 Website Testing
+# 🚀 Project Portfolio
 
-Testing and improving website functionality, usability, and user experience.
+### 🌐 Zyphoryx Launch Forge AI
+
+```diff
++ Startup Ideas
++ Brand Concepts
++ Launch Strategies
++ Growth Planning
+```
+
+### 🎨 AI Brand Builder
+
+```diff
++ Brand Names
++ Taglines
++ Slogans
++ Identity Concepts
+```
+
+### 🤖 Multi-Model AI Platform
+
+```diff
++ 4 AI Models
++ Unified Interface
++ AI Workflow Experiments
++ Model Comparison
+```
+
+### 📊 Data Analytics Platform
+
+```diff
++ Data Processing
++ Dashboards
++ Insights
++ Analytics
+```
+
+
+
+### 🧪 H2A2 Website Testing
+
+```diff
++ Testing
++ UX Review
++ Improvements
+```
 
 ---
 
-# 🎯 Current Goals
-
-- Build More AI Products
-- Learn Advanced Python
-- Explore AI Workflows
-- Understand System Design
-- Launch SaaS Products
-- Work With Real Clients
-- Grow Zyphoryx AI Lab
-
----
-
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Haafil17&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Haafil17&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haafil17&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haafil17&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Haafil17&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Haafil17&theme=tokyonight"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
+# 📈 Contribution Activity
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Haafil17&theme=tokyo-night)](https://github.com/Haafil17)
 
 ---
 
-# 💡 Philosophy
+# 🎯 Current Objectives
 
-> Learn by Building.
->
-> Build. Test. Improve. Repeat.
+- Build More AI Products
+- Improve Python Skills
+- Explore Agentic AI
+- Learn Software Architecture
+- Launch SaaS Products
+- Work With Clients
 
 ---
 
 <div align="center">
 
-## ⚡ High Volume Vibe Coder
+## ⚡ HIGH VOLUME VIBE CODER
 
-Building AI-powered products, exploring modern technology, and turning ideas into reality.
+### Building • Learning 
 
 </div>
