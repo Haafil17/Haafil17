@@ -84,7 +84,258 @@ mindmap
 
 ---
 
-## <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2000&pause=300&color=a89bff&center=false&vCenter=false&width=280&lines=🚀+Currently+Exploring" style="width:280px;"/>
+# 🤖 AI & MACHINE LEARNING
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6b5aff,100:3d1f8f&height=3&section=header&animation=fadeIn" width="100%"/>
+
+## 🧠 AI Fundamentals & Core Concepts
+
+<div align="center">
+
+| | | |
+|:---:|:---:|:---:|
+| ![AI Agents](https://img.shields.io/badge/🤖%20AI%20Agents-Learning-8b7fff?style=for-the-badge&labelColor=1a0a4e&color=6b5aff) | ![LLMs](https://img.shields.io/badge/🗣️%20Large%20Language%20Models-Exploring-7b4aff?style=for-the-badge&labelColor=0d0221&color=5b3aff) | ![Neural Networks](https://img.shields.io/badge/🧠%20Neural%20Networks-Learning-6b3aff?style=for-the-badge&labelColor=3d1f8f&color=4b2aff) |
+
+</div>
+
+---
+
+## 🔗 LangGraph & Orchestration
+
+<div align="center">
+
+| | | |
+|:---:|:---:|:---:|
+| ![LangGraph](https://img.shields.io/badge/🔗%20LangGraph-Mastering-8b7fff?style=for-the-badge&labelColor=1a0a4e&color=6b5aff) | ![Workflow Design](https://img.shields.io/badge/⚙️%20Workflow%20Design-Learning-7b4aff?style=for-the-badge&labelColor=0d0221&color=5b3aff) | ![State Management](https://img.shields.io/badge/📊%20State%20Management-Exploring-6b3aff?style=for-the-badge&labelColor=3d1f8f&color=4b2aff) |
+| ![Graph Orchestration](https://img.shields.io/badge/🎯%20Graph%20Orchestration-Building-8b7fff?style=for-the-badge&labelColor=1a0a4e&color=6b5aff) | ![Agent Loops](https://img.shields.io/badge/🔄%20Agent%20Loops-Learning-7b4aff?style=for-the-badge&labelColor=0d0221&color=5b3aff) | ![Persistence](https://img.shields.io/badge/💾%20Persistence-Exploring-6b3aff?style=for-the-badge&labelColor=3d1f8f&color=4b2aff) |
+
+</div>
+
+---
+
+## ⚡ MCP Protocol & Tool Integration
+
+<div align="center">
+
+| | | |
+|:---:|:---:|:---:|
+| ![MCP Protocol](https://img.shields.io/badge/⚡%20MCP%20Protocol-Exploring-8b7fff?style=for-the-badge&labelColor=1a0a4e&color=6b5aff) | ![Tool Calling](https://img.shields.io/badge/🔨%20Tool%20Calling-Learning-7b4aff?style=for-the-badge&labelColor=0d0221&color=5b3aff) | ![Server-Client](https://img.shields.io/badge/🔌%20Server-Client%20Patterns-6b3aff?style=for-the-badge&labelColor=3d1f8f&color=4b2aff) |
+| ![Extensions](https://img.shields.io/badge/🧩%20Extensions-Building-8b7fff?style=for-the-badge&labelColor=1a0a4e&color=6b5aff) | ![Integration Patterns](https://img.shields.io/badge/🔗%20Integration%20Patterns-Learning-7b4aff?style=for-the-badge&labelColor=0d0221&color=5b3aff) | ![Protocol Specs](https://img.shields.io/badge/📋%20Protocol%20Specs-Exploring-6b3aff?style=for-the-badge&labelColor=3d1f8f&color=4b2aff) |
+
+</div>
+
+---
+
+## 🧠 Transformers & Deep Learning
+
+<div align="center">
+
+| | | |
+|:---:|:---:|:---:|
+| ![Transformers](https://img.shields.io/badge/🧠%20Transformer%20Architecture-Advanced-8b7fff?style=for-the-badge&labelColor=1a0a4e&color=6b5aff) | ![Attention Mechanisms](https://img.shields.io/badge/👁️%20Attention%20Mechanisms-Learning-7b4aff?style=for-the-badge&labelColor=0d0221&color=5b3aff) | ![Fine-tuning](https://img.shields.io/badge/🎯%20Fine-tuning-Mastering-6b3aff?style=for-the-badge&labelColor=3d1f8f&color=4b2aff) |
+| ![Encoder-Decoder](https://img.shields.io/badge/🔄%20Encoder-Decoder-Learning-8b7fff?style=for-the-badge&labelColor=1a0a4e&color=6b5aff) | ![BERT & GPT](https://img.shields.io/badge/📚%20BERT%20&%20GPT-Exploring-7b4aff?style=for-the-badge&labelColor=0d0221&color=5b3aff) | ![Model Optimization](https://img.shields.io/badge/⚡%20Model%20Optimization-Learning-6b3aff?style=for-the-badge&labelColor=3d1f8f&color=4b2aff) |
+
+</div>
+
+---
+
+## 📦 Embeddings & Vector Search
+
+<div align="center">
+
+| | | |
+|:---:|:---:|:---:|
+| ![Embeddings](https://img.shields.io/badge/📦%20Embeddings-Exploring-8b7fff?style=for-the-badge&labelColor=1a0a4e&color=6b5aff) | ![Vector Databases](https://img.shields.io/badge/🗄️%20Vector%20Databases-Learning-7b4aff?style=for-the-badge&labelColor=0d0221&color=5b3aff) | ![Similarity Search](https://img.shields.io/badge/🔍%20Similarity%20Search-Building-6b3aff?style=for-the-badge&labelColor=3d1f8f&color=4b2aff) |
+| ![Semantic Search](https://img.shields.io/badge/🔎%20Semantic%20Search-Learning-8b7fff?style=for-the-badge&labelColor=1a0a4e&color=6b5aff) | ![Vector Indexing](https://img.shields.io/badge/📍%20Vector%20Indexing-Exploring-7b4aff?style=for-the-badge&labelColor=0d0221&color=5b3aff) | ![Dimension Reduction](https://img.shields.io/badge/📉%20Dimension%20Reduction-Learning-6b3aff?style=for-the-badge&labelColor=3d1f8f&color=4b2aff) |
+
+</div>
+
+---
+
+## ✏️ Prompt Engineering & Optimization
+
+<div align="center">
+
+| | | |
+|:---:|:---:|:---:|
+| ![Prompt Engineering](https://img.shields.io/badge/✏️%20Prompt%20Engineering-Mastering-8b7fff?style=for-the-badge&labelColor=1a0a4e&color=6b5aff) | ![Context Window](https://img.shields.io/badge/📄%20Context%20Window-Learning-7b4aff?style=for-the-badge&labelColor=0d0221&color=5b3aff) | ![Few-Shot Learning](https://img.shields.io/badge/📚%20Few-Shot%20Learning-Building-6b3aff?style=for-the-badge&labelColor=3d1f8f&color=4b2aff) |
+| ![Chain of Thought](https://img.shields.io/badge/🤔%20Chain%20of%20Thought-Exploring-8b7fff?style=for-the-badge&labelColor=1a0a4e&color=6b5aff) | ![Prompt Templates](https://img.shields.io/badge/📋%20Prompt%20Templates-Building-7b4aff?style=for-the-badge&labelColor=0d0221&color=5b3aff) | ![Parameter Tuning](https://img.shields.io/badge/🎚️%20Parameter%20Tuning-Learning-6b3aff?style=for-the-badge&labelColor=3d1f8f&color=4b2aff) |
+
+</div>
+
+---
+
+## 🔍 RAG Systems & Knowledge Retrieval
+
+<div align="center">
+
+| | | |
+|:---:|:---:|:---:|
+| ![RAG Systems](https://img.shields.io/badge/🔍%20RAG%20Systems-Exploring-8b7fff?style=for-the-badge&labelColor=1a0a4e&color=6b5aff) | ![Document Retrieval](https://img.shields.io/badge/📄%20Document%20Retrieval-Learning-7b4aff?style=for-the-badge&labelColor=0d0221&color=5b3aff) | ![Knowledge Base](https://img.shields.io/badge/🧠%20Knowledge%20Base-Building-6b3aff?style=for-the-badge&labelColor=3d1f8f&color=4b2aff) |
+| ![Chunking Strategies](https://img.shields.io/badge/✂️%20Chunking%20Strategies-Learning-8b7fff?style=for-the-badge&labelColor=1a0a4e&color=6b5aff) | ![Reranking](https://img.shields.io/badge/📊%20Reranking-Exploring-7b4aff?style=for-the-badge&labelColor=0d0221&color=5b3aff) | ![Context Fusion](https://img.shields.io/badge/🔗%20Context%20Fusion-Learning-6b3aff?style=for-the-badge&labelColor=3d1f8f&color=4b2aff) |
+
+</div>
+
+---
+
+## 🛡️ AI Safety & Guardrails
+
+<div align="center">
+
+| | | |
+|:---:|:---:|:---:|
+| ![Guardrails](https://img.shields.io/badge/🛡️%20Guardrails-Building-8b7fff?style=for-the-badge&labelColor=1a0a4e&color=6b5aff) | ![Content Filtering](https://img.shields.io/badge/🚫%20Content%20Filtering-Learning-7b4aff?style=for-the-badge&labelColor=0d0221&color=5b3aff) | ![Jailbreak Prevention](https://img.shields.io/badge/🔒%20Jailbreak%20Prevention-Exploring-6b3aff?style=for-the-badge&labelColor=3d1f8f&color=4b2aff) |
+| ![Output Validation](https://img.shields.io/badge/✅%20Output%20Validation-Building-8b7fff?style=for-the-badge&labelColor=1a0a4e&color=6b5aff) | ![Bias Detection](https://img.shields.io/badge/⚖️%20Bias%20Detection-Learning-7b4aff?style=for-the-badge&labelColor=0d0221&color=5b3aff) | ![Error Handling](https://img.shields.io/badge/❌%20Error%20Handling-Learning-6b3aff?style=for-the-badge&labelColor=3d1f8f&color=4b2aff) |
+
+</div>
+
+---
+
+## 🧩 Context Engineering & Design
+
+<div align="center">
+
+| | | |
+|:---:|:---:|:---:|
+| ![Context Design](https://img.shields.io/badge/🧩%20Context%20Design-Mastering-8b7fff?style=for-the-badge&labelColor=1a0a4e&color=6b5aff) | ![Context Optimization](https://img.shields.io/badge/⚡%20Context%20Optimization-Building-7b4aff?style=for-the-badge&labelColor=0d0221&color=5b3aff) | ![Memory Management](https://img.shields.io/badge/💾%20Memory%20Management-Learning-6b3aff?style=for-the-badge&labelColor=3d1f8f&color=4b2aff) |
+| ![Token Efficiency](https://img.shields.io/badge/🎯%20Token%20Efficiency-Learning-8b7fff?style=for-the-badge&labelColor=1a0a4e&color=6b5aff) | ![Prompt Caching](https://img.shields.io/badge/⚡%20Prompt%20Caching-Exploring-7b4aff?style=for-the-badge&labelColor=0d0221&color=5b3aff) | ![Context Windowing](https://img.shields.io/badge/📐%20Context%20Windowing-Building-6b3aff?style=for-the-badge&labelColor=3d1f8f&color=4b2aff) |
+
+</div>
+
+---
+
+## 🎯 AI Orchestration & Automation
+
+<div align="center">
+
+| | | |
+|:---:|:---:|:---:|
+| ![Orchestration](https://img.shields.io/badge/🎯%20AI%20Orchestration-Advanced-8b7fff?style=for-the-badge&labelColor=1a0a4e&color=6b5aff) | ![Workflow Automation](https://img.shields.io/badge/⚙️%20Workflow%20Automation-Building-7b4aff?style=for-the-badge&labelColor=0d0221&color=5b3aff) | ![Task Scheduling](https://img.shields.io/badge/⏰%20Task%20Scheduling-Learning-6b3aff?style=for-the-badge&labelColor=3d1f8f&color=4b2aff) |
+| ![Multi-Agent Systems](https://img.shields.io/badge/🤖%20Multi-Agent%20Systems-Exploring-8b7fff?style=for-the-badge&labelColor=1a0a4e&color=6b5aff) | ![Agent Communication](https://img.shields.io/badge/💬%20Agent%20Communication-Learning-7b4aff?style=for-the-badge&labelColor=0d0221&color=5b3aff) | ![Agent Coordination](https://img.shields.io/badge/🔗%20Agent%20Coordination-Building-6b3aff?style=for-the-badge&labelColor=3d1f8f&color=4b2aff) |
+
+</div>
+
+---
+
+# 💻 WEB DEVELOPMENT
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6b5aff,100:3d1f8f&height=3&section=header&animation=fadeIn" width="100%"/>
+
+## 🐍 Python & Backend Development
+
+<div align="center">
+
+| | | |
+|:---:|:---:|:---:|
+| ![Python](https://img.shields.io/badge/🐍%20Python-Expert-8b7fff?style=for-the-badge&labelColor=1a0a4e&color=6b5aff) | ![FastAPI](https://img.shields.io/badge/⚡%20FastAPI-Advanced-7b4aff?style=for-the-badge&labelColor=0d0221&color=5b3aff) | ![Django](https://img.shields.io/badge/🎯%20Django-Learning-6b3aff?style=for-the-badge&labelColor=3d1f8f&color=4b2aff) |
+| ![Async Programming](https://img.shields.io/badge/⚙️%20Async%20Programming-Mastering-8b7fff?style=for-the-badge&labelColor=1a0a4e&color=6b5aff) | ![OOP Patterns](https://img.shields.io/badge/🏗️%20OOP%20Patterns-Advanced-7b4aff?style=for-the-badge&labelColor=0d0221&color=5b3aff) | ![Database Design](https://img.shields.io/badge/🗄️%20Database%20Design-Learning-6b3aff?style=for-the-badge&labelColor=3d1f8f&color=4b2aff) |
+| ![Testing](https://img.shields.io/badge/✅%20Testing-Learning-8b7fff?style=for-the-badge&labelColor=1a0a4e&color=6b5aff) | ![API Development](https://img.shields.io/badge/🔌%20API%20Development-Advanced-7b4aff?style=for-the-badge&labelColor=0d0221&color=5b3aff) | ![Security](https://img.shields.io/badge/🔒%20Security-Learning-6b3aff?style=for-the-badge&labelColor=3d1f8f&color=4b2aff) |
+
+</div>
+
+---
+
+## 🎨 Frontend & UI/UX
+
+<div align="center">
+
+| | | |
+|:---:|:---:|:---:|
+| ![HTML5](https://img.shields.io/badge/📄%20HTML5-Proficient-8b7fff?style=for-the-badge&labelColor=1a0a4e&color=6b5aff) | ![CSS3](https://img.shields.io/badge/🎨%20CSS3-Advanced-7b4aff?style=for-the-badge&labelColor=0d0221&color=5b3aff) | ![Responsive Design](https://img.shields.io/badge/📱%20Responsive%20Design-Mastering-6b3aff?style=for-the-badge&labelColor=3d1f8f&color=4b2aff) |
+| ![Tailwind CSS](https://img.shields.io/badge/💨%20Tailwind%20CSS-Advanced-8b7fff?style=for-the-badge&labelColor=1a0a4e&color=6b5aff) | ![UI Components](https://img.shields.io/badge/🧩%20UI%20Components-Building-7b4aff?style=for-the-badge&labelColor=0d0221&color=5b3aff) | ![Design Systems](https://img.shields.io/badge/🎭%20Design%20Systems-Learning-6b3aff?style=for-the-badge&labelColor=3d1f8f&color=4b2aff) |
+| ![Animations](https://img.shields.io/badge/✨%20Animations-Advanced-8b7fff?style=for-the-badge&labelColor=1a0a4e&color=6b5aff) | ![Accessibility](https://img.shields.io/badge/♿%20Accessibility-Learning-7b4aff?style=for-the-badge&labelColor=0d0221&color=5b3aff) | ![User Experience](https://img.shields.io/badge/👥%20UX%20Design-Mastering-6b3aff?style=for-the-badge&labelColor=3d1f8f&color=4b2aff) |
+
+</div>
+
+---
+
+## ⚛️ React & JavaScript Frameworks
+
+<div align="center">
+
+| | | |
+|:---:|:---:|:---:|
+| ![React](https://img.shields.io/badge/⚛️%20React-Learning-8b7fff?style=for-the-badge&labelColor=1a0a4e&color=6b5aff) | ![Next.js](https://img.shields.io/badge/▲%20Next.js-Exploring-7b4aff?style=for-the-badge&labelColor=0d0221&color=5b3aff) | ![Vue.js](https://img.shields.io/badge/💚%20Vue.js-Learning-6b3aff?style=for-the-badge&labelColor=3d1f8f&color=4b2aff) |
+| ![State Management](https://img.shields.io/badge/📊%20State%20Management-Learning-8b7fff?style=for-the-badge&labelColor=1a0a4e&color=6b5aff) | ![Redux](https://img.shields.io/badge/🔴%20Redux-Learning-7b4aff?style=for-the-badge&labelColor=0d0221&color=5b3aff) | ![Hooks](https://img.shields.io/badge/🎣%20React%20Hooks-Learning-6b3aff?style=for-the-badge&labelColor=3d1f8f&color=4b2aff) |
+| ![Performance](https://img.shields.io/badge/⚡%20Performance-Mastering-8b7fff?style=for-the-badge&labelColor=1a0a4e&color=6b5aff) | ![SEO](https://img.shields.io/badge/🔍%20SEO-Learning-7b4aff?style=for-the-badge&labelColor=0d0221&color=5b3aff) | ![Routing](https://img.shields.io/badge/🛣️%20Routing-Learning-6b3aff?style=for-the-badge&labelColor=3d1f8f&color=4b2aff) |
+
+</div>
+
+---
+
+## 📘 JavaScript & TypeScript
+
+<div align="center">
+
+| | | |
+|:---:|:---:|:---:|
+| ![JavaScript](https://img.shields.io/badge/📘%20JavaScript-Advanced-8b7fff?style=for-the-badge&labelColor=1a0a4e&color=6b5aff) | ![ES6+](https://img.shields.io/badge/🚀%20ES6+-Advanced-7b4aff?style=for-the-badge&labelColor=0d0221&color=5b3aff) | ![TypeScript](https://img.shields.io/badge/📗%20TypeScript-Learning-6b3aff?style=for-the-badge&labelColor=3d1f8f&color=4b2aff) |
+| ![Promises & Async](https://img.shields.io/badge/⏳%20Promises%20&%20Async-Mastering-8b7fff?style=for-the-badge&labelColor=1a0a4e&color=6b5aff) | ![DOM Manipulation](https://img.shields.io/badge/🎯%20DOM%20Manipulation-Advanced-7b4aff?style=for-the-badge&labelColor=0d0221&color=5b3aff) | ![Event Handling](https://img.shields.io/badge/⚡%20Event%20Handling-Advanced-6b3aff?style=for-the-badge&labelColor=3d1f8f&color=4b2aff) |
+| ![Functional Programming](https://img.shields.io/badge/🔧%20Functional%20Prog.-Learning-8b7fff?style=for-the-badge&labelColor=1a0a4e&color=6b5aff) | ![Error Handling](https://img.shields.io/badge/❌%20Error%20Handling-Learning-7b4aff?style=for-the-badge&labelColor=0d0221&color=5b3aff) | ![Memory Management](https://img.shields.io/badge/💾%20Memory%20Mgmt-Learning-6b3aff?style=for-the-badge&labelColor=3d1f8f&color=4b2aff) |
+
+</div>
+
+---
+
+## 🎯 API & Backend Integration
+
+<div align="center">
+
+| | | |
+|:---:|:---:|:---:|
+| ![REST APIs](https://img.shields.io/badge/🔌%20REST%20APIs-Advanced-8b7fff?style=for-the-badge&labelColor=1a0a4e&color=6b5aff) | ![GraphQL](https://img.shields.io/badge/📊%20GraphQL-Learning-7b4aff?style=for-the-badge&labelColor=0d0221&color=5b3aff) | ![WebSockets](https://img.shields.io/badge/🔄%20WebSockets-Exploring-6b3aff?style=for-the-badge&labelColor=3d1f8f&color=4b2aff) |
+| ![Authentication](https://img.shields.io/badge/🔐%20Authentication-Learning-8b7fff?style=for-the-badge&labelColor=1a0a4e&color=6b5aff) | ![Authorization](https://img.shields.io/badge/🔒%20Authorization-Learning-7b4aff?style=for-the-badge&labelColor=0d0221&color=5b3aff) | ![API Documentation](https://img.shields.io/badge/📚%20API%20Docs-Building-6b3aff?style=for-the-badge&labelColor=3d1f8f&color=4b2aff) |
+| ![Error Handling](https://img.shields.io/badge/⚠️%20Error%20Handling-Learning-8b7fff?style=for-the-badge&labelColor=1a0a4e&color=6b5aff) | ![Rate Limiting](https://img.shields.io/badge/⏱️%20Rate%20Limiting-Learning-7b4aff?style=for-the-badge&labelColor=0d0221&color=5b3aff) | ![Caching](https://img.shields.io/badge/⚡%20Caching-Learning-6b3aff?style=for-the-badge&labelColor=3d1f8f&color=4b2aff) |
+
+</div>
+
+---
+
+## 📦 Databases & Data Management
+
+<div align="center">
+
+| | | |
+|:---:|:---:|:---:|
+| ![PostgreSQL](https://img.shields.io/badge/🐘%20PostgreSQL-Learning-8b7fff?style=for-the-badge&labelColor=1a0a4e&color=6b5aff) | ![MongoDB](https://img.shields.io/badge/🍃%20MongoDB-Learning-7b4aff?style=for-the-badge&labelColor=0d0221&color=5b3aff) | ![SQLite](https://img.shields.io/badge/💾%20SQLite-Proficient-6b3aff?style=for-the-badge&labelColor=3d1f8f&color=4b2aff) |
+| ![SQL Queries](https://img.shields.io/badge/📝%20SQL%20Queries-Advanced-8b7fff?style=for-the-badge&labelColor=1a0a4e&color=6b5aff) | ![ORM](https://img.shields.io/badge/🔗%20ORM%20(SQLAlchemy)-Learning-7b4aff?style=for-the-badge&labelColor=0d0221&color=5b3aff) | ![Data Modeling](https://img.shields.io/badge/📊%20Data%20Modeling-Learning-6b3aff?style=for-the-badge&labelColor=3d1f8f&color=4b2aff) |
+| ![Migrations](https://img.shields.io/badge/🔄%20Migrations-Learning-8b7fff?style=for-the-badge&labelColor=1a0a4e&color=6b5aff) | ![Indexing](https://img.shields.io/badge/📍%20Indexing-Learning-7b4aff?style=for-the-badge&labelColor=0d0221&color=5b3aff) | ![Backup & Recovery](https://img.shields.io/badge/💿%20Backup%20&%20Recovery-Learning-6b3aff?style=for-the-badge&labelColor=3d1f8f&color=4b2aff) |
+
+</div>
+
+---
+
+## 🚀 Deployment & DevOps
+
+<div align="center">
+
+| | | |
+|:---:|:---:|:---:|
+| ![Docker](https://img.shields.io/badge/🐳%20Docker-Learning-8b7fff?style=for-the-badge&labelColor=1a0a4e&color=6b5aff) | ![Kubernetes](https://img.shields.io/badge/☸️%20Kubernetes-Exploring-7b4aff?style=for-the-badge&labelColor=0d0221&color=5b3aff) | ![CI/CD](https://img.shields.io/badge/⚙️%20CI/CD-Learning-6b3aff?style=for-the-badge&labelColor=3d1f8f&color=4b2aff) |
+| ![Vercel](https://img.shields.io/badge/▲%20Vercel-Proficient-8b7fff?style=for-the-badge&labelColor=1a0a4e&color=6b5aff) | ![GitHub Actions](https://img.shields.io/badge/🔄%20GitHub%20Actions-Learning-7b4aff?style=for-the-badge&labelColor=0d0221&color=5b3aff) | ![AWS](https://img.shields.io/badge/☁️%20AWS-Exploring-6b3aff?style=for-the-badge&labelColor=3d1f8f&color=4b2aff) |
+| ![Environment Setup](https://img.shields.io/badge/⚙️%20Environment-Setup-Learning-8b7fff?style=for-the-badge&labelColor=1a0a4e&color=6b5aff) | ![Logging](https://img.shields.io/badge/📝%20Logging-Learning-7b4aff?style=for-the-badge&labelColor=0d0221&color=5b3aff) | ![Monitoring](https://img.shields.io/badge/📊%20Monitoring-Learning-6b3aff?style=for-the-badge&labelColor=3d1f8f&color=4b2aff) |
+
+</div>
+
+---
+
+## 🔧 Tools & Technologies
+
+<div align="center">
+
+| | | |
+|:---:|:---:|:---:|
+| ![Git](https://img.shields.io/badge/🔀%20Git-Proficient-8b7fff?style=for-the-badge&labelColor=1a0a4e&color=6b5aff) | ![GitHub](https://img.shields.io/badge/🐙%20GitHub-Expert-7b4aff?style=for-the-badge&labelColor=0d0221&color=5b3aff) | ![VS Code](https://img.shields.io/badge/💻%20VS%20Code-Proficient-6b3aff?style=for-the-badge&labelColor=3d1f8f&color=4b2aff) |
+| ![NPM](https://img.shields.io/badge/📦%20NPM-Advanced-8b7fff?style=for-the-badge&labelColor=1a0a4e&color=6b5aff) | ![Webpack](https://img.shields.io/badge/📦%20Webpack-Learning-7b4aff?style=for-the-badge&labelColor=0d0221&color=5b3aff) | ![Build Tools](https://img.shields.io/badge/🔨%20Build%20Tools-Learning-6b3aff?style=for-the-badge&labelColor=3d1f8f&color=4b2aff) |
+| ![Lovable](https://img.shields.io/badge/💎%20Lovable-Building-8b7fff?style=for-the-badge&labelColor=1a0a4e&color=6b5aff) | ![Postman](https://img.shields.io/badge/🔌%20Postman-Proficient-7b4aff?style=for-the-badge&labelColor=0d0221&color=5b3aff) | ![Linux](https://img.shields.io/badge/🐧%20Linux-Learning-6b3aff?style=for-the-badge&labelColor=3d1f8f&color=4b2aff) |
+
+</div>
+
+---
+
+# 🚀 CURRENTLY EXPLORING & LEARNING
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6b5aff,100:3d1f8f&height=3&section=header&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
@@ -98,33 +349,18 @@ mindmap
 
 ---
 
-## <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2000&pause=300&color=a89bff&center=false&vCenter=false&width=250&lines=🛠️+Tech+Stack" style="width:250px;"/>
+# 🏗️ BUILDING WITH
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6b5aff,100:3d1f8f&height=3&section=header&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
-### 🤖 AI & Machine Learning
-
-![AI Agents](https://img.shields.io/badge/AI%20Agents-Expert-8b7fff?style=for-the-badge&logo=openai&logoColor=white&labelColor=0d0221)
-![LangGraph](https://img.shields.io/badge/LangGraph-Advanced-7b5aff?style=for-the-badge&logo=graphql&logoColor=white&labelColor=1a0a4e)
-![MCP Protocol](https://img.shields.io/badge/MCP-Exploring-6b4aff?style=for-the-badge&logo=protocol-buffers&logoColor=white&labelColor=3d1f8f)
-![Transformers](https://img.shields.io/badge/Transformers-Expert-8b7fff?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=0d0221)
-![LLMs](https://img.shields.io/badge/LLMs-Advanced-7b5aff?style=for-the-badge&logo=openai&logoColor=white&labelColor=1a0a4e)
-
-### 💻 Development
-
-![Python](https://img.shields.io/badge/Python-Expert-8b7fff?style=for-the-badge&logo=python&logoColor=white&labelColor=0d0221)
-![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-7b5aff?style=for-the-badge&logo=javascript&logoColor=white&labelColor=1a0a4e)
-![TypeScript](https://img.shields.io/badge/TypeScript-Learning-6b4aff?style=for-the-badge&logo=typescript&logoColor=white&labelColor=3d1f8f)
-![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-Proficient-8b7fff?style=for-the-badge&logo=html5&logoColor=white&labelColor=0d0221)
-![React](https://img.shields.io/badge/React-Learning-7b5aff?style=for-the-badge&logo=react&logoColor=white&labelColor=1a0a4e)
-
-### 🚀 Tools & Platforms
-
-![GitHub](https://img.shields.io/badge/GitHub-Expert-8b7fff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0221)
-![Lovable](https://img.shields.io/badge/Lovable-Building-7b5aff?style=for-the-badge&logo=heart&logoColor=white&labelColor=1a0a4e)
-![Vercel](https://img.shields.io/badge/Vercel-Deploying-6b4aff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=3d1f8f)
-![Docker](https://img.shields.io/badge/Docker-Learning-8b7fff?style=for-the-badge&logo=docker&logoColor=white&labelColor=0d0221)
-![Git](https://img.shields.io/badge/Git-Proficient-7b5aff?style=for-the-badge&logo=git&logoColor=white&labelColor=1a0a4e)
+| | | |
+|:---:|:---:|:---:|
+| ![Python](https://img.shields.io/badge/🐍%20Python-Expert-8b7fff?style=for-the-badge&logo=python&logoColor=white&labelColor=0d0221) | ![JavaScript](https://img.shields.io/badge/📘%20JavaScript-Advanced-7b5aff?style=for-the-badge&logo=javascript&logoColor=white&labelColor=1a0a4e) | ![TypeScript](https://img.shields.io/badge/📗%20TypeScript-Learning-6b4aff?style=for-the-badge&logo=typescript&logoColor=white&labelColor=3d1f8f) |
+| ![FastAPI](https://img.shields.io/badge/⚡%20FastAPI-Advanced-8b7fff?style=for-the-badge&logoColor=white&labelColor=0d0221) | ![React](https://img.shields.io/badge/⚛️%20React-Learning-7b5aff?style=for-the-badge&logo=react&logoColor=white&labelColor=1a0a4e) | ![Next.js](https://img.shields.io/badge/▲%20Next.js-Exploring-6b4aff?style=for-the-badge&logoColor=white&labelColor=3d1f8f) |
+| ![PostgreSQL](https://img.shields.io/badge/🐘%20PostgreSQL-Learning-8b7fff?style=for-the-badge&logoColor=white&labelColor=0d0221) | ![MongoDB](https://img.shields.io/badge/🍃%20MongoDB-Learning-7b5aff?style=for-the-badge&logoColor=white&labelColor=1a0a4e) | ![Docker](https://img.shields.io/badge/🐳%20Docker-Learning-6b4aff?style=for-the-badge&logo=docker&logoColor=white&labelColor=3d1f8f) |
+| ![Lovable](https://img.shields.io/badge/💎%20Lovable-Building-8b7fff?style=for-the-badge&logo=heart&logoColor=white&labelColor=0d0221) | ![Vercel](https://img.shields.io/badge/▲%20Vercel-Deploying-7b5aff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a0a4e) | ![GitHub](https://img.shields.io/badge/🐙%20GitHub-Active-6b4aff?style=for-the-badge&logo=github&logoColor=white&labelColor=3d1f8f) |
 
 </div>
 
