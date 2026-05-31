@@ -1,12 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:00F5FF,50:7B61FF,100:FF00FF&text=MOHAMMED%20HAAFIL&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
+<img width="1584" height="396" alt="White and Blue Minimalist AI Engineer LinkedIn Banner (4)" src="https://github.com/user-attachments/assets/814e0e16-d119-48d2-9e36-9d9513a9e8a3" />
 
-# 🤖 Mohammed Haafil
+# Mohammed Haafil
 
 ### AI Enthusiast • High Volume Vibe Coder 
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Building+AI-Powered+Projects;Exploring+AI+Agents;Learning+LangGraph;Exploring+MCP+Protocol;Creating+with+Lovable;Learning+by+Building" />
+
 
 <img src="https://komarev.com/ghpvc/?username=Haafil17&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
 
