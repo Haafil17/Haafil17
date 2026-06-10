@@ -22,7 +22,7 @@ I enjoy learning by building, experimenting with AI tools, and exploring how mod
 
 ---
 
-# 🚀 What I'm Learning
+# 🚀 What I'm Learning 
 
 ```txt
 Python
@@ -39,7 +39,6 @@ RAG
 APIs
 Git & GitHub
 System Design
-Cloud Computing
 Databases
 CI/CD
 SaaS Architecture
@@ -63,7 +62,6 @@ Modern Web Development
 - LangGraph
 - MCP Protocol
 - AI Orchestration
-- Context Engineering
 - Retrieval-Augmented Generation (RAG)
 
 ### 🧠 Machine Learning Concepts
@@ -84,18 +82,16 @@ Modern Web Development
 ### ⚙️ Tools & Platforms
 
 - GitHub
-- Git
 - VS Code
 - Lovable
-- Firebase
+- Supabase
 - Vercel
 
 ### ☁️ Exploring Software Engineering Concepts
 
 - System Design
-- Cloud Computing
 - Databases
-- CI/CD
+- Frontend and Backend
 - SaaS Architecture
 - Modern Web Development
 
