@@ -318,7 +318,7 @@ These are the projects I’m turning into real products and experiments.
 
 <div align="center">
 
-## ⚡ HIGH VOLUME VIBE CODER
+## AI is not a Tool its the Future
 
 ### Learning • Building • Shipping
 
